@@ -17,7 +17,7 @@ Currently pursuing my **Master's in Computer Science** at **the University of Ut
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** Python, C/C++, JavaScript, Java, SQL, Go  
+- **Languages:** Python, TypeScript, C/C++, JavaScript, SQL, Go  
 - **Frameworks & Libraries:** Flask, Node.js, Express.js, React, TensorFlow  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD, Git, Bash  
 - **Cybersecurity & Networking:** Secure APIs, DNS, Network Protocols, Cryptography  
