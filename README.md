@@ -47,6 +47,6 @@ I recently completed my **Master’s in Computer Science** at the **University o
 ---
 
 ## 📈 GitHub Stats
-![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VatsalGoel3&show_icons=true&hide_title=true&cache_seconds=21600)
+[![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VatsalGoel3)](https://github.com/VatsalGoel3/github-readme-stats)
 
 📫 **Let’s connect — I build secure, scalable systems (infra, data, and AI security).**
