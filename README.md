@@ -50,4 +50,19 @@ Frameworks:  Flask · Node.js · React · TensorFlow
 
 ---
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalGoel3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalGoel3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VatsalGoel3&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 *I write about infra security and AI risk on [LinkedIn](https://linkedin.com/in/vatsal-goel3) — building in public at i4 Ops.*
