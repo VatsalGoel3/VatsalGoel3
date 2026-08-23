@@ -60,7 +60,7 @@ Frameworks:  Flask · Node.js · React · TensorFlow
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VatsalGoel3&theme=tokyonight&hide_border=true&v=2" alt="Vatsal's GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VatsalGoel3&theme=tokyonight&v=2" alt="Vatsal's GitHub contribution activity" />
 </p>
 
 ---
