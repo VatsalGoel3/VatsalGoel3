@@ -55,8 +55,8 @@ Frameworks:  Flask · Node.js · React · TensorFlow
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalGoel3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalGoel3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VatsalGoel3&theme=tokyonight" height="165" alt="Vatsal's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VatsalGoel3&theme=tokyonight" height="165" alt="Vatsal's top languages by repository" />
 </p>
 
 <p align="center">
