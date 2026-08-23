@@ -55,12 +55,12 @@ Frameworks:  Flask · Node.js · React · TensorFlow
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VatsalGoel3&theme=tokyonight" height="165" alt="Vatsal's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VatsalGoel3&theme=tokyonight" height="165" alt="Vatsal's top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VatsalGoel3&theme=tokyonight&v=2" height="165" alt="Vatsal's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VatsalGoel3&theme=tokyonight&v=2" height="165" alt="Vatsal's top languages by repository" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VatsalGoel3&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VatsalGoel3&theme=tokyonight&hide_border=true&v=2" alt="Vatsal's GitHub contribution streak" />
 </p>
 
 ---
